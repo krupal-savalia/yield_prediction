@@ -44,7 +44,7 @@ git clone <repository-url>
 cd Yield_prediction
 ``` 
 
-<h3>2. Install Dependencies</h3>
+### **2. Install Dependencies**
 Install the required Python libraries:
 ```bash
 pip install flask pandas joblib requests flask-cors matplotlib
@@ -52,7 +52,7 @@ pip install flask pandas joblib requests flask-cors matplotlib
 <h3>3. Add the Dataset</h3>
 Ensure the Dataset.csv file is placed in the data_fi;es/ folder.
 
-<h3>4. Run the Flask Server</h3>
+### **4. Run the Flask Server**
 Start the backend server:
 ```bash
 python [yield.py](http://_vscodecontentref_/4)
