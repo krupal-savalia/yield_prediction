@@ -42,18 +42,21 @@ Yield_prediction/ ├── crop_yield_ui.html # Frontend HTML file for user int
 ```bash
 git clone <repository-url>
 cd Yield_prediction
+``` 
 
 <h3>2. Install Dependencies</h3>
 Install the required Python libraries:
+```bash
 pip install flask pandas joblib requests flask-cors matplotlib
-
+```
 <h3>3. Add the Dataset</h3>
 Ensure the Dataset.csv file is placed in the data_fi;es/ folder.
 
 <h3>4. Run the Flask Server</h3>
 Start the backend server:
+```bash
 python [yield.py](http://_vscodecontentref_/4)
-
+```
 <h3>5. Open the Frontend</h3>
 Open the crop_yield_ui.html file in your browser.
 
